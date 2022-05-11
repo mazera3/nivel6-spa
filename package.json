@@ -1,0 +1,23 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "Conceitos de SPA",
+  "main": "index8.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "Édio Mazera",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mazera3/nivel6-spa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mazera3/nivel6-spa/issues"
+  },
+  "homepage": "https://github.com/mazera3/nivel6-spa#readme"
+}
